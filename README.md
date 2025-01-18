@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://graph.org/file/d57d6f83abb6b8d0efb02.jpg" alt="VJ-TXT-LEECH-BOT Logo">
+  <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjkZIDFIOIP5CZAE-AAL8lLWJRnuEyOLdywZ7fQgt74RDw2nsZrBdCkfVS9xtxA7TXHCJxcIWb_r8a3zBp4-9ipN-FKuIMqtFxuj884ic0DWB3_KQTWWB30XjelP8h288I_cvIeQlW8-TL4cXdj2-F9cEpAgJ8unqw71Tonga4Y5ZcOf36Oz7Q4rdNsEMmo/s3264/1000034610.jpg" alt="VJ-TXT-LEECH-BOT Logo">
 </p>
 <h1 align="center">
   VJ TXT LEECH BOT
